@@ -21,3 +21,5 @@ Campus navigation and pathfinding system designed to help users locate destinati
 
 ## Notes
 Project completed as part of Data Structures and Algorithms coursework (105/100).
+## Documentation
+See project report in /docs folder
